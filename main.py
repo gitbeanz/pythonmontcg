@@ -2,38 +2,58 @@ import sys, os, random, json
 from packinfo import Pack_Info
 from packresults import Pack_Results
 
-def game_loop():
+def game_loop(whale_mode):
+    rip_quantity = "1"
     pack = get_pack()
-    while True:
-        rip_quantity = input('how many packs we ripping?: ')
-        if (int(rip_quantity) and int(rip_quantity)>0):
-            break
-        else:
-            print("Oops! We need a number!")
-    rip_packs(pack, int(rip_quantity))
+    if (whale_mode is False):
+        while True:
+            rip_quantity = input('how many packs we ripping?: ')
+            if (int(rip_quantity) and int(rip_quantity)>0):
+                break
+            else:
+                print("Oops! We need a number!")
+    rip_packs(pack, int(rip_quantity), whale_mode)
+    print ("Total Price: $",int(rip_quantity)*7)
 
-def rip_packs(pack, rip_quantity):
+def rip_packs(pack, rip_quantity, whale_mode):
     rarities = ["Common", "Double Rare", "Shiny", "Shiny Super Rare", "Super Rare", "Art Rare", "Ultra Rare", "Special Art Rare"]
     hits = ["Shiny Super Rare", "Art Rare", "Ultra Rare", "Special Art Rare"]
-
     clear_terminal()
-    print("Ripping", rip_quantity, "packs of", pack.set_name)
+    if (whale_mode is False):
+        print("Ripping", rip_quantity, "packs of", pack.set_name)
     tries = 0
     pack_list = []
-    for i in range(0,rip_quantity):
-        pack_results = rip_pack(pack)
-        pack_list.append(pack_results)
-        tries += 1
-        print("\npack #", tries)
-        for p in pack_results:
-            print(p)
-    print("")
-    print("TOTAL RUN")
-    for rarity in rarities:
-        print(rarity,":", len([c for pck in pack_list for c in pck if rarity in c]))
-    print("\nHITS")
-    for hit in hits:
-        print(hit,":", [c for pck in pack_list for c in pck if hit in c])
+    if (whale_mode is False):
+        for i in range(0,rip_quantity):
+            pack_results = rip_pack(pack)
+            pack_list.append(pack_results)
+            tries += 1
+            print("\npack #", tries)
+            for p in pack_results:
+                print(p)
+    else:
+        whale = input("What card are we hunting? ")
+        while True:
+            pack_results = rip_pack(pack)
+            pack_list.append(pack_results)
+            tries += 1
+            print("\npack #", tries)
+            for p in pack_results:
+                print(p)
+            if whale in pack_results:
+                break
+
+        print("WOW! ITS", whale)
+        print("WE PULLED IT! it only took", tries, "packs...So like..$", 7 * tries)
+            
+    if (whale_mode is False):
+        print("")
+        print("TOTAL RUN")
+        for rarity in rarities:
+            print(rarity,":", len([c for pck in pack_list for c in pck if rarity in c]))
+        print("\nHITS")
+        for hit in hits:
+            print(hit,":", [c for pck in pack_list for c in pck if hit in c])
     
 
 
@@ -108,4 +128,4 @@ def clear_terminal():
 
 
 if __name__ == "__main__":
-    game_loop()
+    game_loop(False)
