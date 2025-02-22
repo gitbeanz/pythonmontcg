@@ -1,0 +1,12 @@
+{
+  "name": "SV4a",
+  "odds": {
+    "Double Rare": 1,
+    "Shiny": 3,
+    "Shiny Super Rare": 8,
+    "Super Rare": 20,
+    "Art Rare": 67,
+    "Ultra Rare": 40,
+    "Special Art Rare": 200
+  }
+}

@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "Oddish",
+    "rarity": "Common"
+  },
+  {
+    "name": "Gloom",
+    "rarity": "Common"
+  },
+  {
+    "name": "Vileplume",
+    "rarity": "Common"
+  },
+  {
+    "name": "Scyther",
+    "rarity": "Common"
+  },
+  {
+    "name": "Hoppip",
+    "rarity": "Common"
+  },
+  {
+    "name": "Skiploom",
+    "rarity": "Common"
+  },
+  {
+    "name": "Jumpluff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pineco",
+    "rarity": "Common"
+  },
+  {
+    "name": "Forretress ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Snover",
+    "rarity": "Common"
+  },
+  {
+    "name": "Abomasnow",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sprigatito",
+    "rarity": "Common"
+  },
+  {
+    "name": "Floragato",
+    "rarity": "Common"
+  },
+  {
+    "name": "Meowscarada ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Smoliv",
+    "rarity": "Common"
+  },
+  {
+    "name": "Dolliv",
+    "rarity": "Common"
+  },
+  {
+    "name": "Arboliva",
+    "rarity": "Common"
+  },
+  {
+    "name": "Toedscool",
+    "rarity": "Common"
+  },
+  {
+    "name": "Toedscruel ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Capsakid",
+    "rarity": "Common"
+  },
+  {
+    "name": "Scovillain",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rellor",
+    "rarity": "Common"
+  },
+  {
+    "name": "Espathra ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Wo-Chien ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Charmander",
+    "rarity": "Common"
+  },
+  {
+    "name": "Charmeleon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Common"
+  },
+  {
+    "name": "Entei",
+    "rarity": "Common"
+  },
+  {
+    "name": "Oricorio",
+    "rarity": "Common"
+  },
+  {
+    "name": "Fuecoco",
+    "rarity": "Common"
+  },
+  {
+    "name": "Crocalor",
+    "rarity": "Common"
+  },
+  {
+    "name": "Skeledirge ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Charcadet",
+    "rarity": "Common"
+  },
+  {
+    "name": "Armarouge",
+    "rarity": "Common"
+  },
+  {
+    "name": "Chi-Yu ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Slowpoke",
+    "rarity": "Common"
+  },
+  {
+    "name": "Slowbro",
+    "rarity": "Common"
+  },
+  {
+    "name": "Staryu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Starmie",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Common"
+  },
+  {
+    "name": "Quaxly",
+    "rarity": "Common"
+  },
+  {
+    "name": "Quaxwell",
+    "rarity": "Common"
+  },
+  {
+    "name": "Quaquaval ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Wiglett",
+    "rarity": "Common"
+  },
+  {
+    "name": "Wugtrio",
+    "rarity": "Common"
+  },
+  {
+    "name": "Finizen",
+    "rarity": "Common"
+  },
+  {
+    "name": "Palafin",
+    "rarity": "Common"
+  },
+  {
+    "name": "Veluza",
+    "rarity": "Common"
+  },
+  {
+    "name": "Dondozo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tatsugiri",
+    "rarity": "Common"
+  },
+  {
+    "name": "Frigibax",
+    "rarity": "Common"
+  },
+  {
+    "name": "Arctibax",
+    "rarity": "Common"
+  },
+  {
+    "name": "Baxcalibur",
+    "rarity": "Common"
+  },
+  {
+    "name": "Chien-Pao ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Pikachu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Raichu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Voltorb",
+    "rarity": "Common"
+  },
+  {
+    "name": "Electrode",
+    "rarity": "Common"
+  },
+  {
+    "name": "Shinx",
+    "rarity": "Common"
+  },
+  {
+    "name": "Luxio",
+    "rarity": "Common"
+  },
+  {
+    "name": "Luxray",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pachirisu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Thundurus",
+    "rarity": "Common"
+  },
+  {
+    "name": "Toxel",
+    "rarity": "Common"
+  },
+  {
+    "name": "Toxtricity",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pawmi",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pawmo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pawmot",
+    "rarity": "Common"
+  },
+  {
+    "name": "Wattrel",
+    "rarity": "Common"
+  },
+  {
+    "name": "Kilowattrel",
+    "rarity": "Common"
+  },
+  {
+    "name": "Miraidon ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Wigglytuff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Abra",
+    "rarity": "Common"
+  },
+  {
+    "name": "Kadabra",
+    "rarity": "Common"
+  },
+  {
+    "name": "Alakazam ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Mew ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Cleffa",
+    "rarity": "Common"
+  },
+  {
+    "name": "Natu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Xatu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ralts",
+    "rarity": "Common"
+  },
+  {
+    "name": "Kirlia",
+    "rarity": "Common"
+  },
+  {
+    "name": "Gardevoir ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Drifloon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Drifblim",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mime Jr.",
+    "rarity": "Common"
+  },
+  {
+    "name": "Spiritomb",
+    "rarity": "Common"
+  },
+  {
+    "name": "Klefki",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mimikyu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Fidough",
+    "rarity": "Common"
+  },
+  {
+    "name": "Dachsbun",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ceruledge",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rabsca",
+    "rarity": "Common"
+  },
+  {
+    "name": "Flittle",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tinkatink",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tinkatuff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tinkaton",
+    "rarity": "Common"
+  },
+  {
+    "name": "Greavard",
+    "rarity": "Common"
+  },
+  {
+    "name": "Houndstone",
+    "rarity": "Common"
+  },
+  {
+    "name": "Gimmighoul",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mankey",
+    "rarity": "Common"
+  },
+  {
+    "name": "Primeape",
+    "rarity": "Common"
+  },
+  {
+    "name": "Annihilape",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Common"
+  },
+  {
+    "name": "Riolu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Lucario",
+    "rarity": "Common"
+  },
+  {
+    "name": "Hawlucha",
+    "rarity": "Common"
+  },
+  {
+    "name": "Nacli",
+    "rarity": "Common"
+  },
+  {
+    "name": "Naclstack",
+    "rarity": "Common"
+  },
+  {
+    "name": "Garganacl",
+    "rarity": "Common"
+  },
+  {
+    "name": "Glimmet",
+    "rarity": "Common"
+  },
+  {
+    "name": "Glimmora ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Great Tusk ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Ting-Lu ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Koraidon ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Charizard ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Paldean Wooper",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Murkrow",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sneasel",
+    "rarity": "Common"
+  },
+  {
+    "name": "Weavile",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sableye",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pawniard",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bisharp",
+    "rarity": "Common"
+  },
+  {
+    "name": "Kingambit",
+    "rarity": "Common"
+  },
+  {
+    "name": "Maschiff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mabosstiff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Shroodle",
+    "rarity": "Common"
+  },
+  {
+    "name": "Grafaiai",
+    "rarity": "Common"
+  },
+  {
+    "name": "Scizor",
+    "rarity": "Common"
+  },
+  {
+    "name": "Varoom",
+    "rarity": "Common"
+  },
+  {
+    "name": "Revavroom",
+    "rarity": "Common"
+  },
+  {
+    "name": "Iron Treads ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Gholdengo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Noibat",
+    "rarity": "Common"
+  },
+  {
+    "name": "Noivern ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Cyclizar",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pidgey",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pidgeotto",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pidgeot ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Jigglypuff",
+    "rarity": "Common"
+  },
+  {
+    "name": "Wigglytuff ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Doduo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Dodrio",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ditto",
+    "rarity": "Common"
+  },
+  {
+    "name": "Snorlax",
+    "rarity": "Common"
+  },
+  {
+    "name": "Wingull",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pelipper",
+    "rarity": "Common"
+  },
+  {
+    "name": "Skwovet",
+    "rarity": "Common"
+  },
+  {
+    "name": "Greedent",
+    "rarity": "Common"
+  },
+  {
+    "name": "Lechonk",
+    "rarity": "Common"
+  },
+  {
+    "name": "Oinkologne",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tandemaus",
+    "rarity": "Common"
+  },
+  {
+    "name": "Maushold",
+    "rarity": "Common"
+  },
+  {
+    "name": "Squawkabilly ex",
+    "rarity": "Double Rare"
+  },
+  {
+    "name": "Flamigo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Electric Generator",
+    "rarity": "Common"
+  },
+  {
+    "name": "Superior Energy Retrieval",
+    "rarity": "Common"
+  },
+  {
+    "name": "Super Rod",
+    "rarity": "Common"
+  },
+  {
+    "name": "Nest Ball",
+    "rarity": "Common"
+  },
+  {
+    "name": "Nemona's Backpack",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ultra Ball",
+    "rarity": "Common"
+  },
+  {
+    "name": "Letter of Encouragement",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rare Candy",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rock Chestplate",
+    "rarity": "Common"
+  },
+  {
+    "name": "Big Air Balloon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rigid Band",
+    "rarity": "Common"
+  },
+  {
+    "name": "Leftovers",
+    "rarity": "Common"
+  },
+  {
+    "name": "Defiance Band",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bravery Charm",
+    "rarity": "Common"
+  },
+  {
+    "name": "Technical Machine: Crisis Punch",
+    "rarity": "Common"
+  },
+  {
+    "name": "Geeta",
+    "rarity": "Common"
+  },
+  {
+    "name": "Clavell",
+    "rarity": "Common"
+  },
+  {
+    "name": "Giovanni's Charisma",
+    "rarity": "Common"
+  },
+  {
+    "name": "Iono",
+    "rarity": "Common"
+  },
+  {
+    "name": "Clive",
+    "rarity": "Common"
+  },
+  {
+    "name": "Professor's Research [Professor Sada]",
+    "rarity": "Common"
+  },
+  {
+    "name": "Professor's Research [Professor Turo]",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Student",
+    "rarity": "Common"
+  },
+  {
+    "name": "Paldean Student",
+    "rarity": "Common"
+  },
+  {
+    "name": "Arven",
+    "rarity": "Common"
+  },
+  {
+    "name": "Boss's Orders [Ghetsis]",
+    "rarity": "Common"
+  },
+  {
+    "name": "Penny",
+    "rarity": "Common"
+  },
+  {
+    "name": "Town Store",
+    "rarity": "Common"
+  },
+  {
+    "name": "Beach Court",
+    "rarity": "Common"
+  },
+  {
+    "name": "Artazon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pokémon League Headquarters",
+    "rarity": "Common"
+  },
+  {
+    "name": "Practice Studio",
+    "rarity": "Common"
+  },
+  {
+    "name": "Therapeutic Energy",
+    "rarity": "Common"
+  },
+  {
+    "name": "Reversal Energy",
+    "rarity": "Common"
+  },
+  {
+    "name": "Luminous Energy",
+    "rarity": "Common"
+  },
+  {
+    "name": "Oddish",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Gloom",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Vileplume",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Scyther",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Hoppip",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Skiploom",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Jumpluff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pineco",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Snover",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Abomasnow",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Sprigatito",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Floragato",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Smoliv",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Dolliv",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Arboliva",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Toedscool",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Capsakid",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Scovillain",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Rellor",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Charmander",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Charmeleon",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Entei",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Oricorio",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Fuecoco",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Crocalor",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Charcadet",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Armarouge",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Slowpoke",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Slowbro",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Staryu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Starmie",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Quaxly",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Quaxwell",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Wiglett",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Wugtrio",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Finizen",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Palafin",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Veluza",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Dondozo",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Tatsugiri",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Frigibax",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Arctibax",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Baxcalibur",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pikachu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Raichu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Voltorb",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Electrode",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Shinx",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Luxio",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Luxray",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pachirisu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Thundurus",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Toxel",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Toxtricity",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pawmi",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pawmo",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pawmot",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Wattrel",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Kilowattrel",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Wigglytuff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Abra",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Kadabra",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Cleffa",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Natu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Xatu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Ralts",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Kirlia",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Drifloon",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Drifblim",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Mime Jr.",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Spiritomb",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Klefki",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Mimikyu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Fidough",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Dachsbun",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Ceruledge",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Rabsca",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Flittle",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Tinkatink",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Tinkatuff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Tinkaton",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Greavard",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Houndstone",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Mankey",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Primeape",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Annihilape",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Paldean Tauros",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Riolu",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Lucario",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Hawlucha",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Nacli",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Naclstack",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Garganacl",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Glimmet",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Paldean Wooper",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Murkrow",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Sneasel",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Weavile",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Sableye",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pawniard",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Bisharp",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Kingambit",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Maschiff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Mabosstiff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Shroodle",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Grafaiai",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Scizor",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Varoom",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Revavroom",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Noibat",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Cyclizar",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pidgey",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pidgeotto",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Jigglypuff",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Doduo",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Dodrio",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Ditto",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Snorlax",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Wingull",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Pelipper",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Skwovet",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Greedent",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Lechonk",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Oinkologne",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Tandemaus",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Maushold",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Flamigo",
+    "rarity": "Shiny"
+  },
+  {
+    "name": "Forretress ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Meowscarada ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Toedscruel ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Espathra ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Skeledirge ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Quaquaval ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Alakazam ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Mew ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Gardevoir ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Glimmora ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Great Tusk ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Charizard ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Iron Treads ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Noivern ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Pidgeot ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Wigglytuff ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Squawkabilly ex",
+    "rarity": "Shiny Super Rare"
+  },
+  {
+    "name": "Wugtrio",
+    "rarity": "Art Rare"
+  },
+  {
+    "name": "Palafin",
+    "rarity": "Art Rare"
+  },
+  {
+    "name": "Pawmi",
+    "rarity": "Art Rare"
+  },
+  {
+    "name": "Mimikyu",
+    "rarity": "Art Rare"
+  },
+  {
+    "name": "Judge",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Nemona",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Clive",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Paldean Student",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Paldean Student",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Mew ex",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Gardevoir ex",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Charizard ex",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Iono",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Nemona",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Clive",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Arven",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Penny",
+    "rarity": "Special Art Rare"
+  },
+  {
+    "name": "Wo-Chien ex",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Chi-Yu ex",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Chien-Pao ex",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Miraidon ex",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Ting-Lu ex",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Koraidon ex",
+    "rarity": "Ultra Rare"
+  }
+]
